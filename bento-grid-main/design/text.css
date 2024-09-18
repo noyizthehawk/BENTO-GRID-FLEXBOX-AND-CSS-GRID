@@ -1,0 +1,113 @@
+@font-face {
+    font-family: 'DMSans'; /* Define a name for your font */
+    src: url('../assets/fonts/DMSans-Italic-VariableFont_opsz,wght.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'DMSans_variable';
+    src: url('../assets/fonts/static/DMSans-Regular.ttf') format('truetype')
+   
+}
+@font-face {
+    font-family: 'DMSans_medium';
+    src: url('../assets/fonts/static/DMSans-Medium.ttf') format('truetype')
+   
+}
+
+p{
+    font-family:'DMSans_variable';
+    line-height: 0.9;
+    letter-spacing: -3px;
+}
+.create_scheduletxt{
+    
+    font-family: 'DMSans_variable';
+    line-height: 0.9;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 90px;
+    letter-spacing: -3px;
+    margin-bottom: 20px;
+
+    
+}
+.snippet{
+    font-size: 40px;
+    font-family: 'DMSans';
+    color:hsl(256, 67%, 59%);
+}
+.social_media10x{
+    font-family: 'DMSans_variable' ;
+    font-size: 65px;
+    line-height: 0.9;
+    text-align: center;
+    color: white;
+    letter-spacing: -2px;
+    margin-bottom: 0px;
+ 
+    
+}
+.tenx{
+    color: rgba(251,204,112,255);
+}
+.faster_audience_txt{
+    font-size: 20px;
+    font-family: 'DMSans_medium';
+    letter-spacing: 0px;
+    font-weight: lighter;
+    margin-left: 25px;
+}
+.AI_content{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+.managetxt{
+    font-size: 35px;
+    text-align: left;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.maintain{
+    font-size: 35px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.social_media_scheduletxt{
+    font-size: 35px;
+    margin-left: 25px;
+    margin-top: 45px;
+
+}
+.social_media_posttimingtxt{
+    font-weight: lighter;
+    font-size: 20px;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    line-height: 1;
+
+}
+.grow_followers_txt{
+    color: white;
+    font-size: 45px;
+    flex-grow: 1;
+    margin-top: 50px;
+    margin-left: 20px;
+    
+
+}
+.percentage56{
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 25px;
+}
+.review_number_txt{
+    letter-spacing: 0px;
+    font-size: 20px;
+    margin-left: 170px;
+    color: white;
+    margin-top: 5px;
+    font-weight: lighter;
+}

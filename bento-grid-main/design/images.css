@@ -1,0 +1,40 @@
+.create_post{
+    height: 85px;
+    margin-left: 40px;
+    
+}
+.five_star_review{
+    height: 40px;
+    margin-left: 170px;
+    margin-top: 20px;
+   
+}
+.post_schedule_img{
+    height:  300px;
+    margin-left: 25px;
+    
+}
+.manage_img{
+    height: 70px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+
+}
+.maintain_img{
+    height: 160px;
+    margin-left: 25px;
+    width: 225px;
+}
+.AI_content_img{
+    height: 240px;
+    margin-left: 30px;
+}
+.memoji_img{
+    height: 70px;
+    margin-left: 25px;
+}
+.followers_growth_img{
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
